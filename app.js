@@ -1,8 +1,8 @@
 import React from "react";
-import Pizza from "./project6/component/Header/menu/pizza";
-import Headers from "./project6/component/Header/header";
-import Footer from "./project6/component/Footer/Footer";
-import Menu from "./project6/component/Header/menu/menu";
+import Pizza from "./component/Header/menu/pizza";
+import Headers from "./component/Header/header";
+import Footer from "./component/Footer/Footer";
+import Menu from "./component/Header/menu/menu";
 import "./index.css";
 
 const App = () => {
